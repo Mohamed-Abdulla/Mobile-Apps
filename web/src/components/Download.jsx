@@ -9,7 +9,7 @@ const Download = () => {
           <h1 className={`${styles.h1Text} ${styles.blackText}`}>Download the Source Code</h1>
           <p className={`${styles.pText} ${styles.blackText}`}>Get the full source code on GitHub</p>
         </div>
-        <a href="">
+        <a href="https://github.com/Mohamed-Abdulla/Mobile-Apps.git">
           <button className={styles.btnPrimary}>Source Code</button>
         </a>
         <div className={`${styles.flexCenter}`}>
